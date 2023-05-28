@@ -127,13 +127,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Center.cpp" />
     <ClCompile Include="Nagyhazi.cpp" />
     <ClCompile Include="Players.cpp" />
+    <ClCompile Include="PointGuard.cpp" />
+    <ClCompile Include="PowerForward.cpp" />
+    <ClCompile Include="ShootingGuard.cpp" />
+    <ClCompile Include="SmallForward.cpp" />
     <ClCompile Include="Teams.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Center.h" />
     <ClInclude Include="Players.h" />
+    <ClInclude Include="PointGuard.h" />
+    <ClInclude Include="PowerForward.h" />
+    <ClInclude Include="ShootingGuard.h" />
+    <ClInclude Include="SmallForward.h" />
     <ClInclude Include="Teams.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

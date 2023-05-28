@@ -1,0 +1,11 @@
+﻿  Nagyhazi.cpp
+C:\Users\Ármin\Desktop\cpp\nagyhazi2\Nagyhazi\Nagyhazi.cpp(364,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ármin\Desktop\cpp\nagyhazi2\Nagyhazi\Nagyhazi.cpp(368,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ármin\Desktop\cpp\nagyhazi2\Nagyhazi\Nagyhazi.cpp(386,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ármin\Desktop\cpp\nagyhazi2\Nagyhazi\Nagyhazi.cpp(390,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ármin\Desktop\cpp\nagyhazi2\Nagyhazi\Nagyhazi.cpp(408,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ármin\Desktop\cpp\nagyhazi2\Nagyhazi\Nagyhazi.cpp(412,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ármin\Desktop\cpp\nagyhazi2\Nagyhazi\Nagyhazi.cpp(430,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ármin\Desktop\cpp\nagyhazi2\Nagyhazi\Nagyhazi.cpp(434,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ármin\Desktop\cpp\nagyhazi2\Nagyhazi\Nagyhazi.cpp(474,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Nagyhazi.vcxproj -> C:\Users\Ármin\Desktop\cpp\nagyhazi2\Nagyhazi\x64\Debug\Nagyhazi.exe

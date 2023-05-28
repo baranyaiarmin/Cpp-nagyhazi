@@ -1,0 +1,150 @@
+Point Guard,Trae Young,Atlanta Hawks,185,24,91
+Shooting Guard,Dejounte Murray,Atlanta Hawks,196,26,87
+Small Forward,De'Andre Hunter,Atlanta Hawks,203,25,77
+Power Forward,John Collins,Atlanta Hawks,206,25,82
+Center,Clint Capela,Atlanta Hawks,208,29,85
+Point Guard,Marcus Smart,Boston Celtics,193,29,83
+Shooting Guard,Derrick White,Boston Celtics,193,28,77
+Small Forward,Jaylen Brown,Boston Celtics,198,26,86
+Power Forward,Jayson Tatum,Boston Celtics,203,25,92
+Center,Al Horford,Boston Celtics,206,36,81
+Point Guard,Spencer Dinwiddie,Brooklyn Nets,196,30,81
+Shooting Guard,Mikal Bridges,Brooklyn Nets,198,25,84
+Small Forward,Dorian Finney-Smith,Brooklyn Nets,201,30,79
+Power Forward,Cameron Johnson,Brooklyn Nets,203,27,79
+Center,Nicolas Claxton,Brooklyn Nets,211,24,77
+Point Guard,Théo Maledon,Charlotte Hornets,196,21,71
+Shooting Guard,Bryce McGowens,Charlotte Hornets,198,20,69
+Small Forward,Svi Mykhailiuk,Charlotte Hornets,201,25,71
+Power Forward,JT Thor,Charlotte Hornets,206,20,71
+Center,Mark Williams,Charlotte Hornets,213,21,73
+Point Guard,Patrick Beverley,Chicago Bulls,188,34,79
+Shooting Guard,Alex Caruso,Chicago Bulls,196,29,76
+Small Forward,Zach LaVine,Chicago Bulls,196,28,89
+Power Forward,DeMar DeRozan,Chicago Bulls,198,33,88
+Center,Nikola Vucevic,Chicago Bulls,208,32,84
+Point Guard,Darius Garland,Cleveland Cavaliers,185,23,88
+Shooting Guard,Donovan Mitchell,Cleveland Cavaliers,185,26,87
+Small Forward,Caris LeVert,Cleveland Cavaliers,198,28,77
+Power Forward,Evan Mobley,Cleveland Cavaliers,211,21,85
+Center,Jarrett Allen,Cleveland Cavaliers,206,25,84
+Point Guard,Luka Doncic,Dallas Mavericks,201,24,94
+Shooting Guard,Kyrie Irving,Dallas Mavericks,188,31,88
+Small Forward,Reggie Bullock,Dallas Mavericks,198,32,74
+Power Forward,Josh Green,Dallas Mavericks,201,22,74
+Center,Dwight Powell,Dallas Mavericks,208,31,75
+Point Guard,Jamal Murray,Denver Nuggets,193,26,85
+Shooting Guard,K. Caldwell-Pope,Denver Nuggets,196,30,77
+Small Forward,Michael Porter Jr.,Denver Nuggets,208,24,81
+Power Forward,Aaron Gordon,Denver Nuggets,203,27,78
+Center,Nikola Jokic,Denver Nuggets,211,28,95
+Point Guard,Killian Hayes,Detroit Pistons,196,21,72
+Shooting Guard,R.J. Hampton,Detroit Pistons,196,22,73
+Small Forward,Jaden Ivey,Detroit Pistons,193,21,77
+Power Forward,Jalen Duren,Detroit Pistons,211,19,74
+Center,James Wiseman,Detroit Pistons,213,22,74
+Point Guard,Stephen Curry,Golden State Warriors,188,35,97
+Shooting Guard,Jordan Poole,Golden State Warriors,193,23,84
+Small Forward,Klay Thompson,Golden State Warriors,198,33,84
+Power Forward,Andrew Wiggins,Golden State Warriors,201,28,83
+Center,Draymond Green,Golden State Warriors,198,33,84
+Point Guard,Josh Christopher,Houston Rockets,193,21,74
+Shooting Guard,Jalen Green,Houston Rockets,193,21,81
+Small Forward,Kenyon Martin Jr.,Houston Rockets,201,22,76
+Power Forward,Jabari Smith Jr.,Houston Rockets,211,20,77
+Center,Alperen Sengün,Houston Rockets,211,20,78
+Point Guard,Andrew Nembhard,Indiana Pacers,190,24,69
+Shooting Guard,Bennedict Mathurin,Indiana Pacers,196,20,74
+Small Forward,Jordan Nwora,Indiana Pacers,206,24,73
+Power Forward,Aaron Nesmith,Indiana Pacers,196,23,72
+Center,Isaiah Jackson,Indiana Pacers,206,21,77
+Point Guard,Russell Westbrook,Los Angeles Clippers,190,34,77
+Shooting Guard,Eric Gordon,Los Angeles Clippers,190,34,76
+Small Forward,Norman Powell,Los Angeles Clippers,193,30,79
+Power Forward,Marcus Morris Sr.,Los Angeles Clippers,203,33,78
+Center,Ivica Zubac,Los Angeles Clippers,213,26,76
+Point Guard,Dennis Schröder,Los Angeles Lakers,185,29,74
+Shooting Guard,Rui Hachimura,Los Angeles Lakers,203,25,75
+Small Forward,Austin Reaves,Los Angeles Lakers,196,24,75
+Power Forward,LeBron James,Los Angeles Lakers,206,3824,97
+Center,Anthony Davis,Los Angeles Lakers,208,30,89
+Point Guard,Ja Morant,Memphis Grizzlies,188,24,94
+Shooting Guard,Desmond Bane,Memphis Grizzlies,196,24,84
+Small Forward,Dillon Brooks,Memphis Grizzlies,198,27,81
+Power Forward,Jaren Jackson Jr.,Memphis Grizzlies,208,23,84
+Center,Xavier Tillman Sr.,Memphis Grizzlies,201,24,74
+Point Guard,Gabe Vincent,Miami Heat,191,26,74
+Shooting Guard,Max Strus,Miami Heat,196,27,77
+Small Forward,Jimmy Butler,Miami Heat,201,33,94
+Power Forward,Kevin Love,Miami Heat,203,34,81
+Center,Bam Adebayo,Miami Heat,206,25,88
+Point Guard,Jrue Holiday,Milwaukee Bucks,196,32,87
+Shooting Guard,Grayson Allen,Milwaukee Bucks,193,27,76
+Small Forward,Khris Middleton,Milwaukee Bucks,201,31,87
+Power Forward,Giannis Antetokounmpo,Milwaukee Bucks,213,28,98
+Center,Brook Lopez,Milwaukee Bucks,216,35,81
+Point Guard,Mike Conley,Minnesota Timberwolves,185,35,81
+Shooting Guard,Anthony Edwards,Minnesota Timberwolves,193,21,87
+Small Forward,N. Alexander-Walker,Minnesota Timberwolves,196,24,73
+Power Forward,Karl-Anthony Towns,Minnesota Timberwolves,213,27,90
+Center,Rudy Gobert,Minnesota Timberwolves,216,30,87
+Point Guard,CJ McCollum,New Orleans Pelicans,191,31,84
+Shooting Guard,Herbert Jones,New Orleans Pelicans,201,24,79
+Small Forward,Brandon Ingram,New Orleans Pelicans,203,25,87
+Power Forward,Trey Murphy III,New Orleans Pelicans,203,22,76
+Center,Jonas Valanciunas,New Orleans Pelicans,211,31,84
+Point Guard,Jalen Brunson,New York Knicks,188,26,82
+Shooting Guard,Quentin Grimes,New York Knicks,196,23,73
+Small Forward,RJ Barrett,New York Knicks,198,22,85
+Power Forward,Julius Randle,New York Knicks,203,28,83
+Center,Mitchell Robinson,New York Knicks,213,25,80
+Point Guard,Shai Gilgeous-Alexander,Oklahoma City Thunder,198,24,86
+Shooting Guard,Josh Giddey,Oklahoma City Thunder,203,20,81
+Small Forward,Luguentz Dort,Oklahoma City Thunder,193,24,78
+Power Forward,Jalen Williams,Oklahoma City Thunder,196,22,71
+Center,Jaylin Williams,Oklahoma City Thunder,206,20,69
+Point Guard,Markelle Fultz,Orlando Magic,193,24,76
+Shooting Guard,Jalen Suggs,Orlando Magic,196,21,74
+Small Forward,Caleb Houstan,Orlando Magic,203,20,69
+Power Forward,Franz Wagner,Orlando Magic,208,21,79
+Center,Wendell Carter Jr.,Orlando Magic,208,24,82
+Point Guard,James Harden,Philadelphia 76ers,196,33,88
+Shooting Guard,Tyrese Maxey,Philadelphia 76ers,188,22,86
+Small Forward,Tobias Harris,Philadelphia 76ers,201,30,83
+Power Forward,P.J. Tucker,Philadelphia 76ers,196,38,76
+Center,Joel Embiid,Philadelphia 76ers,213,29,95
+Point Guard,Chris Paul,Phoenix Suns,183,38,91
+Shooting Guard,Devin Booker,Phoenix Suns,196,26,90
+Small Forward,Josh Okogie,Phoenix Suns,193,24,70
+Power Forward,Kevin Durant,Phoenix Suns,208,34,95
+Center,Deandre Ayton,Phoenix Suns,213,24,86
+Point Guard,Damian Lillard,Portland Trail Blazers,188,32,88
+Shooting Guard,Anfernee Simons,Portland Trail Blazers,191,23,81
+Small Forward,Cam Reddish,Portland Trail Blazers,201,23,75
+Power Forward,Jerami Grant,Portland Trail Blazers,203,29,83
+Center,Jusuf Nurkic,Portland Trail Blazers,213,28,81
+Point Guard,De'Aaron Fox,Sacramento Kings,190,25,83
+Shooting Guard,Kevin Huerter,Sacramento Kings,201,24,77
+Small Forward,Harrison Barnes,Sacramento Kings,203,30,79
+Power Forward,Keegan Murray,Sacramento Kings,203,22,77
+Center,Domantas Sabonis,Sacramento Kings,216,27,85
+Point Guard,Tre Jones,San Antonio Spurs,185,23,73
+Shooting Guard,Malaki Branham,San Antonio Spurs,193,20,73
+Small Forward,Julian Champagnie,San Antonio Spurs,201,21,69
+Power Forward,Sandro Mamukelashvili,San Antonio Spurs,208,24,70
+Center,Keita Bates-Diop,San Antonio Spurs,203,27,75
+Point Guard,Fred VanVleet,Toronto Raptors,183,29,84
+Shooting Guard,Scottie Barnes,Toronto Raptors,203,21,83
+Small Forward,OG Anunoby,Toronto Raptors,201,25,82
+Power Forward,Pascal Siakam,Toronto Raptors,203,29,87
+Center,Jakob Poeltl,Toronto Raptors,216,27,77
+Point Guard,Collin Sexton,Utah Jazz,188,24,79
+Shooting Guard,Jordan Clarkson,Utah Jazz,196,30,76
+Small Forward,Lauri Markkanen,Utah Jazz,213,26,79
+Power Forward,Kelly Olynyk,Utah Jazz,211,32,75
+Center,Walker Kessler,Utah Jazz,213,21,70
+Point Guard,Monte Morris,Washington Wizards,188,27,80
+Shooting Guard,Bradley Beal,Washington Wizards,193,29,88
+Small Forward,Deni Avdija,Washington Wizards,206,22,77
+Power Forward,Kyle Kuzma,Washington Wizards,206,27,82
+Center,Kristaps Porzingis,Washington Wizards,221,27,84

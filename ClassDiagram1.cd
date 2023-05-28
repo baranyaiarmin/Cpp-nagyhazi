@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Center" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Center.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIEAAAAAQQAQAAAAABAAAEQAUQAAAAAAEAQAAABA=</HashCode>
+      <FileName>Players.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointGuard" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>PointGuard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerForward" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAQAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerForward.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShootingGuard" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAACAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShootingGuard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmallForward" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>SmallForward.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Team" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAAAAFAAAAAAAQEAJAAAAABQAQAEEABAAAAGAAA=</HashCode>
+      <FileName>Teams.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
